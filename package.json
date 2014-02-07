@@ -3,6 +3,10 @@
   "version": "0.0.0",
   "description": "Creates a spotify Playlist link based on the last.fm profile.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Poltergeist/spotify-playlist-generator"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
